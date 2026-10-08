@@ -1,0 +1,6 @@
+{
+  "name": "HaulTrack 3D - Construction Logistics & Fleet Tracker",
+  "description": "Interactive 3D RTS-style construction material dispatch and live truck tracking dashboard with low-poly simulation, stock piles, and delivery analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
